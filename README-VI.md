@@ -38,7 +38,7 @@ Chú thích:
 1. Clone repository:
 
    ```shell
-   git clone https://github.com/Ryder3x/Espam.git
+   git clone https://github.com/Ryder3x/ESpam.git
    ```
 
 ### Sử dụng trên Terminal
@@ -59,7 +59,7 @@ Chú thích:
 
 ```python
 import requests as r
-exec(r.get("https://raw.githubusercontent.com/Ryder3x/Espam/master/ESpam.py").text)
+exec(r.get("https://raw.githubusercontent.com/Ryder3x/ESpam/master/ESpam.py").text)
 ```
 
 **Lưu ý:**
