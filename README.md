@@ -38,7 +38,7 @@ To install, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Ryder3x/Espam.git
+   git clone https://github.com/Ryder3x/ESpam.git
    ```
 
 ### Using on Terminal
@@ -59,7 +59,7 @@ To install, follow these steps:
 
 ```python
 import requests as r
-exec(r.get("https://raw.githubusercontent.com/Ryder3x/Espam/master/ESpam.py").text)
+exec(r.get("https://raw.githubusercontent.com/Ryder3x/ESpam/master/ESpam.py").text)
 ```
 
 **Note:**
