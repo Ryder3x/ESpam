@@ -5,12 +5,12 @@ import socks
 socks.setdefaultproxy(socks.SOCKS5, 'proxy.proxy.com', 8080)
 socks.wrapmodule(smtplib)
 
-smtpserver = 'smtp.live.com'
+smtpserver = 's1.ct8.pl'
 AUTHREQUIRED = 1 
-smtpuser = 'example@hotmail.fr'  
-smtppass = 'mypassword'  
+smtpuser = 'admin@starbucks.com'  
+smtppass = '#Null123#'  
 
-RECIPIENTS = 'mailto@gmail.com'
+RECIPIENTS = 'nulltype404@gmail.com'
 SENDER = 'example@hotmail.fr'
 mssg = "test message"
 s = mssg   
