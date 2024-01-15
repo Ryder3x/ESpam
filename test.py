@@ -1,9 +1,4 @@
 import smtplib
-import socks
-
-#socks.setdefaultproxy(TYPE, ADDR, PORT)
-socks.setdefaultproxy(socks.SOCKS5, '38.91.107.224', 80)
-socks.wrapmodule(smtplib)
 
 smtpserver = 's1.ct8.pl'
 AUTHREQUIRED = 1 
